@@ -1,1 +1,1 @@
-# cc_web
+# stock analysis skill
